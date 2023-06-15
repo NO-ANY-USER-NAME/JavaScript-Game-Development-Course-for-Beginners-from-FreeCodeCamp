@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to bottom,rgb(187, 187, 187),rgb(43, 43, 43));
+    width:100vw;
+    height:100vh;
+    overflow:hidden;
+}
+
+#Canvas1 {
+    border: 2px solid white;
+    position: absolute;
+    height: 90%;
+    width: 90%;
+    background: rgb(39, 39, 39);
+    top:5%;
+    left:5%;
+}
+
+#img {
+    display:  none;
+}

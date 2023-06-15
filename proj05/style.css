@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to bottom,red,green,blue);
+    width:100vw;
+    height:100vh;
+    overflow:hidden;
+}
+
+#collision{
+    position:absolute;
+    height:80%;
+    width:80%;
+    /*background: rgb(141, 141, 141);*/
+    opacity:0;
+    top:10%;
+    left:10%;
+}
+
+#Canvas1 {
+    position: absolute;
+    height: 80%;
+    width: 80%;
+    background: rgb(70,70,70);
+    top:10%;
+    left:10%;
+}

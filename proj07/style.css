@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to bottom,rgb(142, 142, 142),black);
+    width:100vw;
+    height:100vh;
+    overflow:hidden;
+}
+
+#C1{
+    top:5%;
+    left:5%;
+    height:90%;
+    width:90%;
+    background: rgb(88, 88, 88);
+    border:3px solid white;
+    position:absolute;
+}
+
+#fullscenebutton{
+    position:absolute;
+    font-size: 20px;
+    padding:5px;
+    top:20px;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
